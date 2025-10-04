@@ -29,6 +29,7 @@ body {
     align-items: center;
     justify-content: center;
     gap: 25px;
+    font-family: seb;
     
 }
     
@@ -79,4 +80,47 @@ border: none;
 
 }
 
+#iphoneair {
+    height: 90%;
+    width: 100%;
+    background-color: white;
+    background-image: url(https://www.apple.com/v/home/ch/images/heroes/iphone-air/hero_iphone_air__0gxyavihpiqu_medium_2x.jpg);
+    background-position: cover;
+    background-position: center;
+    text-align: center;
+    padding: 40px;
+    
+}
+
+#iphoneair h1 {
+    font-size: 60px;
+    font-family: seb;
+
+}
+
+#iphoneair h5 {
+    font-size: 30px;
+    font-weight: 300;
+    
+} 
+#iphoneair h4 {
+    color: black;
+    font-size: 30px;
+    font-weight: 300;
+    
+}
+#link2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    padding: 20px;
+}
+#link2 button {
+    background-color: hsl(215, 64%, 53%);
+    color: white;
+    padding: 13px 20px;
+    border-radius: 50px;
+    border: none;
+}
 
